@@ -1,3 +1,4 @@
+### Day 0: Data Types
 #### Objective
 
 Today, we're discussing data types. Check out the attached tutorial for more details.
