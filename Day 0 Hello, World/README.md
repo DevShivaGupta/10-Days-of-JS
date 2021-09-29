@@ -17,7 +17,7 @@ You've got this!
 
 | Data Type | Parameter | Description |
 | :-----------: | :------------: | :---------------: |
-| string| | parameterVariable |  single line of text containing one or more space-separated words. |
+| string | parameterVariable |  single line of text containing one or more space-separated words. |
 
 #### Output Format
 
