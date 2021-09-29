@@ -11,7 +11,7 @@ The values returned by these functions are printed to stdout by locked stub code
 
 #### Input Format
 
-!(http://url/to/img.png)
+![table1](http://url/to/img.png)
 
 
 Constraints
