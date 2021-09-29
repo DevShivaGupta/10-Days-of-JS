@@ -11,11 +11,11 @@ Variables named **firstInteger**, **firstDecimal**, and **firstString** are decl
 3. Print the concatenation of **firstString** and **secondString** on a new line using console.log. Note that **firstString** must be printed first.
 #### Input Format
 
-|Data Type|	|Parameter|	|Description|
-|:------:||:-----:||:-----:|
-|string|	|**secondInteger**|	|The string representation of an integer you must sum with **firstInteger**.|
-|string|	|**secondDecimal**|	|The string representation of a floating-point number you must sum with **firstDecimal**.|
-|string|	|**secondString**|	|A string of one or more space-separated words you must append to .|
+|Data Type|Parameter|Description|
+|:------:|:-----:|:-----:|
+|string	|**secondInteger**|	The string representation of an integer you must sum with **firstInteger**.|
+|string|	**secondDecimal**|The string representation of a floating-point number you must sum with **firstDecimal**.|
+|string	|**secondString**	|A string of one or more space-separated words you must append to .|
 #### Output Format
 
 Print the following three lines of output:
