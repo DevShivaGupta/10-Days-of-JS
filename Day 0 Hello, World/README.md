@@ -36,5 +36,5 @@ Print the following two lines of output:<br/>
 
 We printed two lines of output:
 
-We printed the literal string Hello, World! using the code provided in the editor.
-The value of  passed to our main function in this Sample Case was Welcome to 10 Days of JavaScript!. We then passed our variable to console.log, which printed the contents of .
+1. We printed the literal string Hello, World! using the code provided in the editor.<br/>
+2. The value of parameterVariable passed to our main function in this Sample Case was Welcome to 10 Days of JavaScript!. We then passed our variable to console.log, which printed the contents of parameterVariable.
