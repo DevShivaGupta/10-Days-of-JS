@@ -25,17 +25,17 @@ Print the following three lines of output:
 3. On the third line, print **firstString** concatenated with **secondString**. You must print **firstString** before **secondString**.
 #### Sample Input 0
 
-12
-4.32
-is the best place to learn and practice coding!
-Sample Output 0
+    12
+    4.32
+    is the best place to learn and practice coding!
+#### Sample Output 0
 
-16
-8.32
-HackerRank is the best place to learn and practice coding!
-Explanation 0
+    16
+    8.32
+    HackerRank is the best place to learn and practice coding!
+#### Explanation 0
 
-When we sum the integers  and , we get the integer .
-When we sum the floating-point numbers  and , we get . When we concatenate HackerRank with is the best place to learn and practice coding!, we get HackerRank is the best place to learn and practice coding!.
+When we sum the integers **4** and **12**, we get the integer **16**.<br/>
+When we sum the floating-point numbers **4.0** and **4.32**, we get **8.32**. When we concatenate HackerRank with is the best place to learn and practice coding!, we get HackerRank is the best place to learn and practice coding!.<br/>
 
-You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above.
+**You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above.**
