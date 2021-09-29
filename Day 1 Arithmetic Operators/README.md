@@ -11,8 +11,7 @@ The values returned by these functions are printed to stdout by locked stub code
 
 #### Input Format
 
-||getArea||
-|:----:|:----:|:----:|
+|getArea|
 |Data Type|Parameter|Description|
 |:----:|:----:|:----:|
 |Number|length|A number denoting the length of a rectangle|
