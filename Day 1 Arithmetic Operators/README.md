@@ -23,13 +23,14 @@ The values returned by these functions are printed to stdout by locked stub code
 
 #### Sample Input 0
 
-3
-4.5
+    3
+    4.5
 #### Sample Output 0
 
-13.5
-15
+    13.5
+    15
 #### Explanation 0
 
-The area of the rectangle is .
-The perimeter of the rectangle is .
+The area of the rectangle is **length X Width=3 X 4.5 = 13.5**.<br/>
+The perimeter of the rectangle is <br/>
+**2.(length + width) = 2.(3+4.5) = 15.**
