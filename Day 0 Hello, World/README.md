@@ -16,7 +16,7 @@ You've got this!
 #### Input Format
 
 | Data Type || Parameter || Description |
-| ----------- || ------------ || --------------- |
+| :-----------: || :------------: || :---------------: |
 | string| | parameterVariable ||  single line of text containing one or more space-separated words. 
 
 #### Output Format
