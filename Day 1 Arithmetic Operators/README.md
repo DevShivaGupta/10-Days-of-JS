@@ -12,7 +12,7 @@ The values returned by these functions are printed to stdout by locked stub code
 
 #### Input Format
 
-![table1](https://s3.amazonaws.com/hr-challenge-images/0/1483593098-d7eec46104-JS-input-function-name.png)
+![table1](https://s3.amazonaws.com/hr-challenge-images/0/1483593098-d7eec46104-JS-input-function-name.png)<br/>
 ![table2](https://s3.amazonaws.com/hr-challenge-images/0/1483593124-050e72f8c3-JS-input-function-name-params.png)
 
 #### Constraints
