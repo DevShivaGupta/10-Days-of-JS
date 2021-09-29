@@ -1,3 +1,4 @@
+### Day 1: Arithmetic Operators
 #### Objective
 
 In this challenge, we practice using arithmetic operators. Check out the attached tutorial for resources.
