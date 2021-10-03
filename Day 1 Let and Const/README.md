@@ -35,4 +35,4 @@ Given the radius **r=2.6**, we calculate the following:
 * **area = π.r<sup>2</sup> = 21.237166338267002**
 * perimeter = 2 π r = 16.336281798666924
 
-We then print  as our first line of output and  as our second line of output.
+We then print **area** as our first line of output and **perimeter** as our second line of output.
