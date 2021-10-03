@@ -1,3 +1,4 @@
+## Day 1: Let and Const 
 #### Objective
 
 In this challenge, we practice declaring variables using the let and const keywords. Check out the attached tutorial for more details.
