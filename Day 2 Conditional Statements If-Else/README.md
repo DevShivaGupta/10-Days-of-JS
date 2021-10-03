@@ -1,7 +1,5 @@
 ## Input and Output
 ### Objective
-Objective
-
 In this challenge, we learn about if-else statements. Check out the attached tutorial for more details.
 
 #### Task
