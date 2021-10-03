@@ -22,23 +22,19 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-/**
-*   A line of code that prints "Hello, World!" on a new line is provided in the editor. 
-*   Write a second line of code that prints the contents of 'parameterVariable' on a new line.
-*
-*	Parameter:
-*   parameterVariable - A string of text.
-**/
-function greeting(parameterVariable) {
-    // This line prints 'Hello, World!' to the console:
-    console.log('Hello, World!');
-    console.log(`${parameterVariable}`)
-    
-    
-}
 function main() {
-    const parameterVariable = readLine();
     
-    greeting(parameterVariable);
+    // Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
+    const PI=Math.PI;
+    const r=readLine();
+    console.log(PI*r*r);
+    console.log(2*PI*r);
+    try {    
+        // Attempt to redefine the value of constant variable PI
+        PI = 0;
+        // Attempt to print the value of PI
+        console.log(PI);
+    } catch(error) {
+        console.error("You correctly declared 'PI' as a constant.");
+    }
 }
-
