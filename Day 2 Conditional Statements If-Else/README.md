@@ -1,37 +1,35 @@
 ## Input and Output
 ### Objective
-In this challenge, we practice reading input from stdin and printing output to stdout.
+Objective
 
-In C++, you can read a single whitespace-separated token of input using cin, and print output to stdout using cout. For example, let's say we declare the following variables:
+In this challenge, we learn about if-else statements. Check out the attached tutorial for more details.
 
-    string s;
-    int n;
-and we want to use cin to read the input "High 5" from stdin. We can do this with the following code:
-    
-    cin >> s >> n;
-This reads the first word ("High") from stdin and saves it as string **s**, then reads the second word ("**5**") from stdin and saves it as integer **n**. If we want to print these values to stdout, separated by a space, we write the following code:
-
-    cout << s << " " << n << endl;
-This code prints the contents of string **s**, a single space (**"** **"**), then the integer **n**. We end our line of output with a newline using endl. This results in the following output:
-    
-    High 5
 #### Task
-Read **3** numbers from stdin and print their sum to stdout.
 
+Complete the getGrade(score) function in the editor. It has one parameter: an integer,**score**, denoting the number of points Julia earned on an exam. It must return the letter corresponding to her **grade** according to the following rules:
+
+If **25 < score <= 30**, then **grade = A**.
+If **20 < score <= 25**, then **grade = B**.
+If **15 < score <= 20**, then **grade = C**.
+If **10 < score <= 15**, then **grade = D**.
+If **5 < score <= 10**, then **grade = E**.
+If **0 < score <= 5**, then **grade = F**.
 #### Input Format
-One line that contains **3** space-separated integers: **a**,**b**, and **c**.
+
+Stub code in the editor reads a single integer denoting **score** from stdin and passes it to the function.
 
 #### Constraints
-* **1<=a,b,c<=1000**
-
+* 0 <= score <=30
 #### Output Format
-Print the sum of the three numbers on a single line.
 
-**Sample Input**
-    
-    1 2 7
-**Sample Output**
+The function must return the value of **grade** (i.e., the letter grade) that Julia earned on the exam.
 
-    10
-#### Explanation
-The sum of the three numbers is **1+2+7=10.**
+#### Sample Input 0
+
+    11
+#### Sample Output 0
+
+    D
+#### Explanation 0
+
+Because **score = 11**, it satisfies the condition **10 < score <= 15** (which corresponds to D). Thus, we return D as our answer.
